@@ -1,0 +1,87 @@
+body {     /* Doing .body shrinks picture down in to center square.  Doing body just gets pictures stacked */
+  
+  padding-bottom: 30px;
+   padding-top: 10px;
+   
+   padding-left: 5px;
+   
+    
+       background:  #e6ffe6;      
+  
+  
+}
+
+        .btn {
+    padding: 6px 12px;         /*  this will help center the words more.  Also margin can help */
+    background: #0ea5e9;
+    border: none;
+      /*   font-family:'Orbitron';      */
+    color: white;
+    
+    font-size: 11px;
+    
+    
+
+}
+
+
+  
+ .h1 {
+       /* it worked! */
+    
+    font-weight: bold;
+    font-family: 'Opens Sans';
+    font-size: 35px;
+    font: #020202;
+    
+    
+    
+       display: block;
+    flex-direction: column;
+    align-items: left;
+       text-align: left;
+       
+  }
+  
+  h2 {
+    
+   font-size: 13px;
+    display: block;
+      flex-direction: column;
+    align-items: left;
+    text-align: left;
+    
+  }
+  
+  
+.underline {
+    border-bottom: 4px solid #0ea5e9;
+}
+   
+
+    
+    
+.card {
+  
+   padding: 20px 20px 70px;
+   margin: 20px 20px;
+         
+   border-width: 3px;
+   border-color: black;
+   border: 3px solid black;  
+   
+   background-image: url("img/faded-office.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+  
+   max-width: 9000px;
+   
+        
+    
+  
+}
+
+
+
+
+
